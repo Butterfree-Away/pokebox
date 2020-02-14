@@ -8,11 +8,13 @@ A complete log of my data science and web development skills, learning, resource
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
+### -> Web Development Skills: <-
+
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**HTML5**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**CSS3**                          | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**JavaScript**                    | ![done][done]     |               |               |                  |                |                 |
 |**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
@@ -27,13 +29,20 @@ A complete log of my data science and web development skills, learning, resource
 |**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**React**                         | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
+
+
+### Data Science Skills:
+
+|               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
+|:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
+|**Python**                        | ![done][done]     |               |               |                  |                |                 |
+|**R**                             | ![done][done]     |               |               |                  |                |                 |
+|**SPSS**                          | ![done][done]     |               |               |                  |                |                 |
+|**Excel**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
 |**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
 |**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
+
 
 ----
 
